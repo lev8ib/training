@@ -11,6 +11,8 @@
 ### Инструменты
 
 pandas
+seaborn
+matplotlib.pyplot
 
 
 ### Выводы
