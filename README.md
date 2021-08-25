@@ -12,4 +12,5 @@
 | [Исследование надёжности заёмщиков](Investigation_of_the_reliability_of_borrowers) | Исследование о влиянии семейного положения и количества детей клиента на факт погашения кредита в срок| *pandas, pymystem3* |  Яндекс.Практикум  |
 | [Исследование объявлений о продаже квартир](Research_of_ads_for_the_sale_of_apartments) | Выявление зависимости между стоимостью объектов недвижимости и характеристиками объектов недвижимости| *pandas, seaborn, matplotlib.pyplot, pymystem3* |  Яндекс.Практикум  |
 | [Определение перспективного тарифа для телеком компании ](Determining_a_promising_tariff_for_a_telecom_company) | Определение наиболее прибыльного тарифа сотовой связи в целях коррекции рекламного бюджета| *pandas, seaborn, matplotlib.pyplot* |  Яндекс.Практикум  |
+| [Исследование успешности видеоигр ](Project_for_determining_the_success_factors_of_the_game) | Выявление факторов, определяющих успешность видеоигр| *pandas, numpy, seaborn, matplotlib.pyplot* |  Яндекс.Практикум  |
 
