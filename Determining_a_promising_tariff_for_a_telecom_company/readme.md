@@ -10,9 +10,9 @@
 
 ### Инструменты
 
-pandas
-seaborn
-matplotlib.pyplot
+- pandas
+- seaborn
+- matplotlib.pyplot
 
 
 ### Выводы
