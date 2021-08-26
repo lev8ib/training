@@ -15,4 +15,4 @@
 | [Исследование успешности видеоигр ](Project_for_determining_the_success_factors_of_the_game) | Выявление факторов, определяющих успешность видеоигр| *pandas, numpy, seaborn, matplotlib* |  Яндекс.Практикум  |
 | [Рекомендация тарифов телеком-компании](Recommendation_of_tariffs) | Построение модели и определение модели с самым большим accuracy для тарифов| *pandas, sklearn, seaborn, matplotlib* |  Яндекс.Практикум  |
 | [Прогнозирование оттока клиентов банка](Forecasting_the_outflow_of_bank_customers) | Построение модели прогнозирующую отток клиентов банка по требуемым значениям метрик F1-мера, AUC-ROC| *pandas, sklearn, seaborn, matplotlib* |  Яндекс.Практикум  |
-
+| [Выбор региона для разработки новых нефтяных месторождений](Choosing_a_region_for_the_development_of_new_oil_fields) | На основе предоставленых данных нефтедобывающей компании построена модель для предсказания места для бурения скважины| *pandas, numpy, scipy, sklearn, seaborn, matplotlib* |  Яндекс.Практикум  |
